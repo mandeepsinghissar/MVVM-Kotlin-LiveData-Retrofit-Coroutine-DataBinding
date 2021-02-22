@@ -1,7 +1,7 @@
 package com.triad.mvvmlearning.utility
 
 /**
- * Created by Raman on 15-07-2018.
+ * Created by Mandeep on 15-07-2018.
  */
 interface Constants {
     interface Url {

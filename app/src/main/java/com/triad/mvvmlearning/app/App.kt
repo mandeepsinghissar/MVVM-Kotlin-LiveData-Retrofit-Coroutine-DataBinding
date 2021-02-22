@@ -9,7 +9,7 @@ import com.werockstar.dagger2demo.di.module.AndroidModule
 import com.werockstar.dagger2demo.di.module.ApplicationModule
 
 /**
- * Created by Raman on 16-07-2018.
+ * Created by Mandeep on 16-07-2018.
  */
 class App : Application() {
 
